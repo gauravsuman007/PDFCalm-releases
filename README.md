@@ -66,7 +66,7 @@ PDFCalm works entirely offline. Documents are never uploaded. The only network r
 
 ## Requirements
 
-- macOS 11 or later.
+- macOS 12 or later.
 - Android 7.0 (API 24) or later.
 
 ## Known limitations
